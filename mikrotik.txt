@@ -1,0 +1,2 @@
+int br add name try1
+ip address 23.46.1.1/32 int try1
