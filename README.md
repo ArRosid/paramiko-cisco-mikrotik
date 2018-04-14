@@ -1,8 +1,10 @@
-# NetworkAutomationCiscoMikrotik
+# Network Automation Cisco Mikrotik
 Python Script to automation Cisco &amp; Mikrotik Devices
 
-To use this script, you need to specify 3 files.
+<h4>To use this script, you need to specify 3 files.</h4>
 
-1. IP File wich contain IP Address & vendor information,
-2. Cisco Config file which contain configuration for cisco devices
-3. Mikrotik Config file which contain configuration for mikrotik devices
+<ol>
+  <li> IP File wich contain IP Address & vendor information,</li>
+  <li>Cisco Config file which contain configuration for cisco devices</li>
+  <li>Mikrotik Config file which contain configuration for mikrotik devices</li>
+</ol>
